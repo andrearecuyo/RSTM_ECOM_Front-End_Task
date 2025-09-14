@@ -1,0 +1,33 @@
+:root {
+  --font-family-base: 'Inter', sans-serif;
+
+  --font-size-xs: 0.75rem;   /* 12px */
+  --font-size-sm: 0.875rem;  /* 14px */
+  --font-size-md: 1rem;      /* 16px */
+  --font-size-lg: 1.125rem;  /* 18px */
+  --font-size-xl: 1.25rem;   /* 20px */
+
+  --font-mobile-size-xs: 0.617rem;  /* 9.87px */
+
+  --font-weight-normal: 400;
+  --font-weight-medium: 500;
+  --font-weight-semibold: 600;
+  --font-weight-bold: 700;
+
+  /* Core Palette */
+  --color-primary: #B3D4B6;
+  --color-primary-light: #ECF2EC;
+  --color-dark: #232621;
+
+  --color-black: #000000;
+  --color-white: #FFFFFF;
+  --color-border: #D9D9D9;
+
+  /* Error */
+  --color-error: #DC173B;
+
+  /* Components */
+  --color-button-checkout: #DC173B;
+  --color-summary-bg: #F5F5F5;
+  --color-base-bg: #FFFFFF;
+}
