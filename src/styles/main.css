@@ -1,6 +1,6 @@
-@import url('./_variables.css');
-@import url('./_base.css');
-@import url('./_header.css');
-@import url('./_checkout.css');
-@import url('./_checkout-form.css');
-@import url('./_responsiveness.css');
+@import url('_variables.css');
+@import url('_base.css');
+@import url('_header.css');
+@import url('_checkout.css');
+@import url('_checkout-form.css');
+@import url('_responsiveness.css');
